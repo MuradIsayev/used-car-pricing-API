@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) It is an API, that allow users to get an estimate on what they should probably sell their car for.
 
 ## Installation
 
